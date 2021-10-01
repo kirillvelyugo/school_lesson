@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1633069615 source:c:\users\305-1\desktop\Урок 01.10\Задание 87\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
