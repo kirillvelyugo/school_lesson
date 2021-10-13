@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1634112213 source:c:\users\public\documents\11 класс 2021-2022\Белуга рыба такая\school_lesson\8. Урок 08.10\Код\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<map>
+	<string>
+	<iomanip>
+	<string>
+
