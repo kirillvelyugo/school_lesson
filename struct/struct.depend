@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1642494976 source:c:\users\302-7\desktop\struct\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+
+1642753978 source:c:\users\public\documents\11 класс\Белуга\struct\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	<iomanip>
+
